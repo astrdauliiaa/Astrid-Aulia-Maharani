@@ -24,3 +24,6 @@ Cara Menjalankan:
 4. Jalankan di server lokal (seperti Apache Tomcat).
 5. Akses http://localhost:8080/proyek-bioskop/index.jsp melalui browser.
 
+![Screenshot 2025-05-16 192324](https://github.com/user-attachments/assets/027bc881-00df-40a4-8a4c-4950923b2b8e)
+![Screenshot 2025-05-16 192337](https://github.com/user-attachments/assets/32f41670-d663-45ae-9b7b-02b4507e7bea)
+![Screenshot 2025-05-16 192356](https://github.com/user-attachments/assets/c6d0b542-dee1-4d75-bedb-1477bd137fb2)
